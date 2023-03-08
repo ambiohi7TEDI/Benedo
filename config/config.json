@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Amblessed",
+    "password": "Giftedhands12.",
+    "database": "AfricaIsTalkingDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "Amblessed",
+    "password": "Giftedhands12.",
+    "database": "AfricaIsTalkingDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "Amblessed",
+    "password": "Giftedhands12.",
+    "database": "AfricaIsTalkingDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
